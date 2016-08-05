@@ -1,6 +1,6 @@
 # libcurl.cr
 
-Bindings to [libcurl](https://curl.haxx.se/libcurl/)
+Bindings to [libcurl](https://curl.haxx.se/libcurl/). WIP
 
 ## Installation
 
