@@ -1,4 +1,4 @@
-# libcurl.cr
+# libcurl.cr [![Build Status](https://travis-ci.org/veelenga/libcurl.cr.svg?branch=master)](https://travis-ci.org/veelenga/libcurl.cr)
 
 Bindings to [libcurl](https://curl.haxx.se/libcurl/). WIP
 
